@@ -102,7 +102,7 @@ Please click the image to watch the Youtube video. For Bilibili users, click [he
 
 The [page](https://insightface.ai/projects) on InsightFace website also describes all supported projects in InsightFace.
 
-You may also interested in some [challenges](https://insightface.ai/challenges) hold by InsightFace.
+You may also interested in some [challenges](https://insightface.ai/challenges) held by InsightFace.
 
 
 
